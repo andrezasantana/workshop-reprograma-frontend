@@ -1,6 +1,6 @@
 # Workshop FrontEnd da Reprograma
 
-*Este projeto foi elaborado em um workshop online da **[reprograma]**(https://reprograma.com.br/) com o intuito de introduzir as tecnologias basicas usadas no desenvolvimento de uma página web estática.* 
+*Este projeto foi elaborado em um workshop online da [reprograma](https://reprograma.com.br/) com o intuito de introduzir as tecnologias basicas usadas no desenvolvimento de uma página web estática.* 
 
 ### Para executar o projeto, será necessário:
 
